@@ -34,7 +34,8 @@
 
 打开这款软件后，上面的工具栏中包含了大部分的功能
 
-![image-20220722193509899](/home/home/.config/Typora/typora-user-images/image-20220722193509899.png)
+![image-20220722193509899](https://user-images.githubusercontent.com/82957212/181416153-3dbf4a2f-4342-48dc-991a-67660137c2ce.png)
+
 
 在这里，从左到右依次是：设置|导入平场 导入暗场 导入图片|数据整理 运动目标检测 为叠加准备的时间整理|发送MPC报告|关闭所有图片 关闭所有窗口|色阶 选择目标 反色 辨别已知目标|放大 缩小|窗口调至合适大小|闪烁|闪烁速度| 
 
@@ -42,7 +43,8 @@
 
 必要时验证并更改用于分析图像的配置文件。配置文件名位于屏幕的右下角，所有图像都应该是PS1.cfg，因为这些图像都来源于泛星望远镜。
 
-![image-20220722194348683](/home/home/.config/Typora/typora-user-images/image-20220722194348683.png)
+![image-20220722194348683](https://user-images.githubusercontent.com/82957212/181416194-c0d41c26-a9b2-4fbd-afb7-3322ac81b94d.png)
+
 
 如果你想更改配置文件，在工具栏上选择“Setting”，点击“Open”，从设置文件夹选择正确的配置文件。
 
@@ -54,7 +56,8 @@
 
 如果你看到了下面这样的错误框弹出，选择选项二。
 
-![image-20220722195542277](/home/home/.config/Typora/typora-user-images/image-20220722195542277.png)
+![image-20220722195542277](https://user-images.githubusercontent.com/82957212/181416222-31fb7f38-3a14-44cb-8739-545e7768a2b8.png)
+
 
 选择工具栏上的Known Object Overlay，然后选择Blink Images按钮两次以放大图像。
 
@@ -68,15 +71,18 @@
 
 点击“Object Designation”，检查dRA和dDec中是否有接近0.00的对象，然后选择对象并单击“OK”。在你点击“OK”后，这个已知物体的名称会自动显示在命名框内。**不要改变它的名字**，然后单机“Accept”。
 
-![image-20220727173852727](/home/home/.config/Typora/typora-user-images/image-20220727173852727.png)
+![image-20220727173852727](https://user-images.githubusercontent.com/82957212/181416252-e494fd81-b0fb-4c68-b6fc-2f8bc756893d.png)
+
 
 这张图展示了一个dRA和dDec值接近0.00的已知物体。在这个情况下选择这个物体并点击“OK”。
 
-![image-20220727173617115](/home/home/.config/Typora/typora-user-images/image-20220727173617115.png)
+![image-20220727173617115](https://user-images.githubusercontent.com/82957212/181416301-890ec478-6e38-477c-8882-2326d3de8c78.png)
+
 
 在列表的顶部是距离你观测的区域最近的已知物体。如果dRA和dDec的值偏离0.00较大（大于0.2极限值），这说明你发现了不在列表中的物体。
 
-![image-20220727173909975](/home/home/.config/Typora/typora-user-images/image-20220727173909975.png)
+![image-20220727173909975](https://user-images.githubusercontent.com/82957212/181416338-e8360450-7b7f-4305-b53d-cf8c16b7fa44.png)
+
 
 这张图展示了一个dRA和dDec值不接近0.00的已知物体。在这个情况下点击“Cancel”。
 
@@ -100,6 +106,7 @@
 
 报告参考形式：
 
-![image-20220728114257867](/home/home/.config/Typora/typora-user-images/image-20220728114257867.png)
+![image-20220728114257867](https://user-images.githubusercontent.com/82957212/181416350-3a218ffc-418e-44f4-b64e-8a8bb351fd90.png)
+
 
 ## 
