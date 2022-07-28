@@ -8,19 +8,15 @@
 
 小行星搜索活动是目前IASC的主要焦点。这个活动长达一个月，其中需要参与者团队寻找小行星。
 
-
-
 中文翻译目录:
 
 [1.READ ME FIRST.md](./READ_ME_FIRST.md)   (请先阅读我)
 
-[2.Instructions for Using Astrometrica 2021.md](./Instructions_for_Using_Astrometrica_2021.md)     (使用Astrometrica 2021软件的指南)
+[2.Instructions for Using Astrometrica 2021.md](./Astrometrica的使用.md)     (使用Astrometrica 2021软件的指南)
 
 [3.Revised Signature Guide.md](./Revised_Signature_Guide.md)   (编辑并寻找小行星指南)
 
 [4.Submitting Reports.md](./Submitting_Reports.md)   (提交报告)
-
-
 
 官方PDF原文:
 
