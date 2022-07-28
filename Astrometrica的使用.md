@@ -1,4 +1,4 @@
-# IASC小行星搜寻计划从入门到精通（2）——Astrometrica的使用
+# Astrometrica的使用
 
 注：全文人工翻译，如有误差请谅解
 
